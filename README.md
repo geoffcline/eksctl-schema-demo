@@ -1,5 +1,7 @@
 The purpose of this project is to display a richly formated reference of the eksctl cluster config file schema.
 
+View schema: https://geoffcline.github.io/eksctl-schema-demo/
+
 The schema.js file loads the schema json directly from the main github repo.
 
 https://raw.githubusercontent.com/eksctl-io/eksctl/refs/heads/main/pkg/apis/eksctl.io/v1alpha5/assets/schema.json
